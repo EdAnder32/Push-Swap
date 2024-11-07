@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*TESTE FOR MASTER BACKUP*/
+
 void	ft_pb(t_stack **stack_a, t_stack **stack_b)
 {
 	t_stack		*tmp;
