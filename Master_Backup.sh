@@ -9,4 +9,4 @@ git add .
 sleep 1
 git commit -m "$COMMIT_MESSAGE"
 sleep 1
-git push origin master
+git push
